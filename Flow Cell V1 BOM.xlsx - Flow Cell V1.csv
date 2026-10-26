@@ -1,0 +1,20 @@
+ASSY NO.,COMPONENT NO.,PART NUMBER,DESCRIPTION,QTY.,VENDOR,Material
+Fixture,,,,,,
+1,,9000-1002,"Assembly, Fixture, Flow Cell, Academic MIE",1,N/A,N/A
+,1a,9000-2005,"Top, Fixture",1,N/A,3D Print (FDM)
+,1b,9000-2006,"Clamp, Fixture",1,Various,Acrylic Sheet
+,1c,94459A240,Heat-Set Insert,4,McMaster-Carr,Brass
+,1d,9000-2007,"Spacer, Fixture",1,N/A,3D Print (FDM)
+,1e,92949A079,"Button Head Hex Screw, 2-56",4,McMaster-Carr,Stainless Steel
+,1f,9000-2008,"Leg, Fixture",,N/A,3D Print (FDM)
+,1g,93365A240,Tapered Heat-Set Insert,4,McMaster-Carr,Brass
+,1h,92949A263,"Button Head Hex Screw, 10-32",4,McMaster-Carr,Stainless Steel
+Coupon,,,,,,
+2,,9000-1000,"Assembly, Flow Cell, Coupon, Academic MIE",1,N/A,N/A
+,2a,PEC-03-01-T-S-LC,Edgeboard Connector,1,DigiKey,N/A
+,2b,9000-2000,"Coupon, Flow Cell",1,N/A,3D Print (SLA)
+,2c,BASi Electrode,Academic MIE,1,BASi,N/A
+,2d,9000-2001,"Film, Top",1,Various,Kapton
+,2e,9000-2002,"Film, Bottom",1,Various,Kapton
+,2f,Debubble Adhesive,Debubble Adhesive,1,3M,3M Double-Sided Adhesive 300LSE
+,2g,Debubble Membrane,Debubble Membrane,1,Cytiva,Versapor 200RC
